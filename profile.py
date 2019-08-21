@@ -12,7 +12,7 @@ class Profile:
 
   """
 
-  header = {"X-API-Key":"201a8014ea0e4143bba7b623864a5f6e"} #Replace YOUR_API_KEY with your own.
+  header = {"X-API-Key":[YOUR_API_KEY]} #Replace YOUR_API_KEY with your own.
   bungie_html = "https://www.bungie.net/"
   platform = "Platform/"
 
